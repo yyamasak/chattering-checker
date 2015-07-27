@@ -17,3 +17,6 @@ There are some software solutions for this issue.
 
 I prefer ChatteringCanceler's hybrid mode.
 And I verified with this checker tool that ChatteringCanceler solved this issue.
+
+## Screenshot
+![alt text](https://raw.githubusercontent.com/yyamasak/chattering-checker/master/chattering-checker.png "Logo Title Text 1")
